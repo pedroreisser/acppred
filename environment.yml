@@ -1,6 +1,12 @@
 name: acppred
+channels:
+  - bioconda
+  - conda-forge
 dependencies:
   - python=3.8
+  - jupyter
+  - make
+  - openblas
   - pip
   - pip:
     - -r requirements.txt
