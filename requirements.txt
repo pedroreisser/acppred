@@ -6,4 +6,4 @@ pandas
 numpy
 biopython
 pytest
-flask   
+flask
