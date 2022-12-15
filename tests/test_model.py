@@ -61,5 +61,5 @@ def test_model_save():
     if os.path.isfile(filename):
         os.remove(filename)
     
-    model.save(filename)
+    model.save(filename)    
     assert os.path.isfile(filename)
