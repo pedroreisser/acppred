@@ -1,6 +1,6 @@
 # acppred
 
-By Pedro
+By Pedro Reisser
 
 a tool to predict anticancer peptides
 
